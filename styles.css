@@ -1,0 +1,88 @@
+
+*{
+    margin:0;
+    padding: 0;}
+
+body{
+    font-family: Arial, Helvetica,sans-serif;
+    background: #F2F2F2;
+    box-sizing: border-box;
+}
+
+h1{
+    background:linear-gradient(to right, #1e1e1e, #4a4a4a, #1e1e1e);
+    color: white;
+    padding:15px;
+    font-size: 28px;
+    font-weight: bold;
+    text-align:center;
+}
+
+.box{
+    padding:30px;
+    background-color: white;
+    width: 550px;
+    border-radius:10px;
+    margin:40px auto;
+    text-align: center;
+    box-shadow: 0px 2px 8px rgba(0,0,0,0.2);
+}
+
+.perfil-circular{
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    border: 3px solid #444;
+    transform: scaleX(-1);
+}
+
+h2{
+    margin-top: 15px;
+    font-size: 30px;
+    color: #111;
+}
+
+.descripcion{
+    margin-top:10px;
+    font-size: 16px;
+    color: #666;
+}
+
+.temas {
+    text-align: left;
+    color: #666;
+}
+
+.temas h3{
+    color: #666;
+    margin-top: 30px;
+
+}
+
+.temas ul{
+    margin-top: 0px;
+    margin-left: 40px;
+    color: #555;
+}
+
+button{
+    margin-top: 25px;
+    padding: 12px 30px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.redes{
+    text-align: center;
+    margin-top: 20px;
+    color: #111;
+}
+
+.redes a{
+    text-decoration: none;
+    color: #444;
+    margin: 15px;
+}
