@@ -10,7 +10,7 @@ body{
 }
 
 h1{
-    background:linear-gradient(to right, #1e1e1e, #4a4a4a, #1e1e1e);
+    background: #4a4a4a;
     color: white;
     padding:15px;
     font-size: 28px;
@@ -56,6 +56,7 @@ h2{
 .temas h3{
     color: #666;
     margin-top: 30px;
+    margin-left: 5px;
 
 }
 
